@@ -1,0 +1,28 @@
+html{
+    font-family: 'Playfair Display', serif;
+}
+
+.news{
+    width: 380px;
+    height: 450px;
+    box-shadow: 1px 1px 10px 3px gray;
+    background-color: rgb(245, 245, 245);
+    margin-right: 30px;
+    margin-top: 30px;
+    float: left;
+}
+
+.image img{
+    width: 380px;
+    height: 280px;
+}
+
+.description h2 a{
+    color: rgb(3, 3, 150);
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.description{
+    padding-left: 25px;
+}
